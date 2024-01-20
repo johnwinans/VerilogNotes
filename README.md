@@ -1,5 +1,6 @@
 # VerilogNotes
-Notes for a tutorial on Verilog
+
+Notes for a [Tutorial on Verilog](https://www.youtube.com/playlist?list=PL3by7evD3F52On-ws9pcdQuEL-rYbNNFB) that I have been posting on YouTube.
 
 # Useful Documentation Links
 
@@ -7,16 +8,26 @@ Notes for a tutorial on Verilog
 
 https://www.latticesemi.com/Products/FPGAandCPLD/iCE40
 
-## Verilog
+## Useful Verilog Documentation
 
+- IEEE 1364 Standards
+  - [1364-2005 - IEEE Standard for Verilog Hardware Description Language](https://ieeexplore.ieee.org/document/1620780)
+  - [1364.1-2002 - IEEE Standard for Verilog Register Transfer Level Synthesis](https://ieeexplore.ieee.org/document/1146718)
+- By Pong P. Chu
+  - [FPGA Prototyping by Verilog Examples: Xilinx Spartan-3 Version 1st Edition](https://a.co/d/7IF3ycu)
+  - [SystemVerilog Vs Verilog in RTL Design - Pong P. Chu](https://www.scribd.com/document/502031998/SystemVerilog-vs-Verilog-in-RTL-Design)
+- [Nonblocking Assignments in Verilog Synthesis, Coding Styles That Kill!](http://www.sunburst-design.com/papers/CummingsSNUG2000SJ_NBA_rev1_2.pdf)
 - https://en.wikipedia.org/wiki/Verilog
-- https://github.com/YosysHQ
-- http://www.sunburst-design.com/papers/CummingsSNUG2006Boston_SystemVerilog_Events.pdf
+- [Yosys](https://github.com/YosysHQ)
+  - [Yosys Open SYnthesis Suite](https://github.com/YosysHQ/yosys) (This is the compiler I use in my tutorial.)
+  - [Yosys Documentation](https://yosyshq.net/yosys/documentation.html) including the [YosysHQ Yosys Manual](https://yosys.readthedocs.io/_/downloads/en/latest/pdf/).
 
-You are supposed to pay for the official Verilog std-1364-2005 specification: https://standards.ieee.org/ieee/1364/3641/
-
-Many Universities tend to leave copies of std-1364-2005 laying around for the world to see.
+Many Universities tend to leave copies of IEEE standards laying around for the world to see.
 Find one for yourself: https://www.google.com/search?q=1364-2005+pdf
+
+## System Verilog Documents
+
+- http://www.sunburst-design.com/papers/CummingsSNUG2006Boston_SystemVerilog_Events.pdf
 
 # Other YouTube Resources
 

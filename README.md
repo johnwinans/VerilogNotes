@@ -15,7 +15,8 @@ https://www.latticesemi.com/Products/FPGAandCPLD/iCE40
   - [1364.1-2002 - IEEE Standard for Verilog Register Transfer Level Synthesis](https://ieeexplore.ieee.org/document/1146718)
 - By Pong P. Chu
   - [FPGA Prototyping by Verilog Examples: Xilinx Spartan-3 Version 1st Edition](https://a.co/d/7IF3ycu)
-  - [SystemVerilog Vs Verilog in RTL Design - Pong P. Chu](https://www.scribd.com/document/502031998/SystemVerilog-vs-Verilog-in-RTL-Design)
+  - [FPGA Prototyping by SystemVerilog Examples: Xilinx MicroBlaze MCS SoC Edition](https://a.co/d/368bnzx) (The next edition of the above Verilog Examples book.)
+  - [SystemVerilog Vs Verilog in RTL Design - Pong P. Chu](https://www.scribd.com/document/502031998/SystemVerilog-vs-Verilog-in-RTL-Design) (This looks like an intro/summary of the above SystemVerilog book.)
 - [Nonblocking Assignments in Verilog Synthesis, Coding Styles That Kill!](http://www.sunburst-design.com/papers/CummingsSNUG2000SJ_NBA_rev1_2.pdf)
 - https://en.wikipedia.org/wiki/Verilog
 - [Yosys](https://github.com/YosysHQ)

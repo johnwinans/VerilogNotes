@@ -17,11 +17,13 @@ https://www.latticesemi.com/Products/FPGAandCPLD/iCE40
   - [FPGA Prototyping by Verilog Examples: Xilinx Spartan-3 Version 1st Edition](https://a.co/d/7IF3ycu)
   - [FPGA Prototyping by SystemVerilog Examples: Xilinx MicroBlaze MCS SoC Edition](https://a.co/d/368bnzx) (The next edition of the above Verilog Examples book.)
   - [SystemVerilog Vs Verilog in RTL Design - Pong P. Chu](https://www.scribd.com/document/502031998/SystemVerilog-vs-Verilog-in-RTL-Design) (This looks like an intro/summary of the above SystemVerilog book.)
-- [Nonblocking Assignments in Verilog Synthesis, Coding Styles That Kill!](http://www.sunburst-design.com/papers/CummingsSNUG2000SJ_NBA_rev1_2.pdf)
-- https://en.wikipedia.org/wiki/Verilog
+- The Clifford E. Cummings [Cliff-Notes](http://www.sunburst-design.com/papers/) on Verilog and SystemVerilog include these:
+  - [Nonblocking Assignments in Verilog Synthesis, Coding Styles That Kill!](http://www.sunburst-design.com/papers/CummingsSNUG2000SJ_NBA_rev1_2.pdf)
+  - ["full_case parallel_case", the Evil Twins of Verilog Synthesis](http://www.sunburst-design.com/papers/CummingsSNUG1999Boston_FullParallelCase.pdf)
 - [Yosys](https://github.com/YosysHQ)
   - [Yosys Open SYnthesis Suite](https://github.com/YosysHQ/yosys) (This is the compiler I use in my tutorial.)
   - [Yosys Documentation](https://yosyshq.net/yosys/documentation.html) including the [YosysHQ Yosys Manual](https://yosys.readthedocs.io/_/downloads/en/latest/pdf/).
+- https://en.wikipedia.org/wiki/Verilog
 
 Many Universities tend to leave copies of IEEE standards laying around for the world to see.
 Find one for yourself: https://www.google.com/search?q=1364-2005+pdf
